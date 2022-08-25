@@ -1,0 +1,81 @@
+
+ /* info */
+
+ .info-content {
+    overflow: hidden;
+ }
+ 
+ .info-item {
+    width: 30%;
+    float: left;
+    text-align: center;
+    padding: 60px 0 50px 0;
+ }
+ 
+ .info-item.mg {
+    margin: 0 5%;
+ }
+ 
+ .info-item i {
+    color: #6195ff;
+ }
+ 
+ .info-title {
+    margin: 15px 0 20px 0;
+    text-transform: capitalize;
+ }
+ 
+ .info-number {
+    color: #999;
+ }
+ 
+ .first-form {
+    overflow: hidden;
+    text-align: center;
+ }
+ 
+ 
+ .first-form input {
+    margin: 10px 0 15px;
+    border: 0;
+    width: 41%;
+    height: 35px;
+    background: rgba(223, 222, 222, 0.8);
+    color: #a9a9a9;
+ }
+ 
+ .first-form input.first-input {
+    margin-right: 2.5%;
+ }
+ 
+ .first-form ::placeholder.first-input {
+    font-size: 25px;
+ }
+ 
+ .first-form input.third-input {
+    width: 85%;
+ }
+ 
+ .first-form textarea.fourth-input {
+    width: 85%;
+    border: 0;
+    background: rgba(223, 222, 222, 0.8);
+    padding: 0 0 20px 0;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 15px;
+    color: #999;
+ }
+ 
+ button.send-massege {
+    border: 0;
+    margin-top: 15px;
+    margin-bottom: 120px;
+    width: 130px;
+    height: 40px;
+    background-color: #6195ff;
+    color: #fff;
+    text-transform: capitalize;
+ }
+ 
+ 
